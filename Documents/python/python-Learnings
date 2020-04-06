@@ -1,0 +1,6 @@
+Python:
+List [] ["apple", "banana", "cherry"]  
+Set -- {"apple", "banana", "cherry"}  
+Tuple () ("apple", "banana", "cherry")  
+Dictionary {}  {"name": "apple", "color": "green"}  
+String
